@@ -1,0 +1,41 @@
+body {
+	height: 1000px 550px;
+	color: white;
+	text-align: center;
+	background: url("./img/blue-background-pinterest-for-birthday-vector-dark-design.jpg");
+	background-size: 1000px 550px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.heading {
+	background: blue;
+	font-size: 40px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+.box1 {
+	background: hotpink;
+	margin-top: 20px;
+	height: 229px;
+	width: 220px;
+	float: right;
+}
+
+.box1 .image1 {
+	float: right;
+}
+
+.text1 {
+
+	float: right;
+
+}
+
+.text1 p {
+	float: right;
+	margin-right: 97px;
+	margin-top: -214px;
+	font-size: 26px;
+}
